@@ -1,0 +1,8 @@
+basic-pitch==0.4.0
+music21==9.1.0
+numpy==1.26.4
+pydub==0.25.1
+scipy==1.11.4
+soundfile==0.12.1
+librosa==0.10.1
+spleeter==2.3.0
